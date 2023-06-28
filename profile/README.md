@@ -1,12 +1,21 @@
-## Hi there 👋
+# WowCoding - 软件开发资源匹配系统
 
-<!--
+专注软件开发领域的资源分配，解决行业资源分配问题
 
-**Here are some ideas to get you started:**
+## 我们的竞争优势
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 内置 `WowCoding AI` 匹配引擎，让项目资源寻找更简单、更智能、更⾼效
+
+- 无抽成、无押⾦、无项目资⾦管控
+
+- 提倡自由合作、激励企业合作、协助个人合作
+
+- 绿⾊资源环境
+
+## 我们的核心价值
+
+- AI智能、快速匹配引擎，高精度匹配跨⾏业资源
+
+- 资源有效检测、资源安全性检测、绿色资源监控
+
+- 打造软件开发高质量、跨行业、⼤规模的绿色资源生态
